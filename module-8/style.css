@@ -1,0 +1,35 @@
+h1 {
+    color: #ff4500;
+  }
+  
+  p {
+    font-family: Verdana, sans-serif;
+  }
+  
+  .topnav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+  }
+  .topnav li {
+    text-transform: uppercase;
+  }
+  .topnav a {
+    color: #333;
+    text-decoration: none;
+  }
+  .topnav a:hover {
+    text-decoration: underline;
+  }
+  
+  .ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  

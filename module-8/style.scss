@@ -1,0 +1,38 @@
+$orange: #ff4500;
+$darkgray: #333;
+$black: #0a0a0a;
+$font: Verdana, sans-serif;
+h1 {
+  color: $orange;
+}
+p {
+  font-family: $font;
+}
+.topnav {
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+  }
+  li {
+    text-transform: uppercase;
+  }
+  a {
+    color: $darkgray;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.ml2 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
