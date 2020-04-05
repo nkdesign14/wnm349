@@ -2,9 +2,15 @@ $orange: #ff4500;
 $darkgray: #333;
 $black: #0a0a0a;
 $font: Verdana, sans-serif;
-h1 {
-  color: $orange;
+body{
+  background-color: $black;
 }
+.h1 {
+  color: $orange;
+  text-align: center;
+}
+
+
 p {
   font-family: $font;
 }
@@ -27,12 +33,4 @@ p {
   }
 }
 
-.ml2 {
-  font-weight: 900;
-  font-size: 3.5em;
-}
 
-.ml2 .letter {
-  display: inline-block;
-  line-height: 1em;
-}
