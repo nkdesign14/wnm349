@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
     padding-top: 50px;
     margin-bottom: 50px;
-    font: 300 60px 'Oswald', sans-serif;
+    font: 300 60px 'Fira Sans', sans-serif;
     letter-spacing: 6px;
     color: #fff;
     margin-bottom: 25px;
@@ -34,7 +34,7 @@ body {
   .form-horizontal {
     float: left;
     max-width: 400px;
-    font-family: 'Lato';
+    font-family: 'Fira Sans';
     font-weight: 400;
   }
   
@@ -62,7 +62,7 @@ body {
   .send-text {
     display: block;
     margin-top: 10px;
-    font: 300 14px 'Lato', sans-serif;
+    font: 300 14px 'Fira Sans', sans-serif;
     letter-spacing: 2px;
   }
   
@@ -90,7 +90,7 @@ body {
   }
   
   .contact-text {
-    font: 300 18px 'Lato', sans-serif;
+    font: 300 18px 'Fira Sans', sans-serif;
     letter-spacing: 1.9px;
     color: #bbb;
   }
@@ -176,7 +176,7 @@ body {
   }
   
   .copyright {
-    font: 200 14px 'Oswald', sans-serif;
+    font: 200 14px 'Fira Sans', sans-serif;
     color: #555;
     letter-spacing: 1px;
     text-align: center;
@@ -259,3 +259,9 @@ body {
       width: 99%;
     }
   }
+
+  html .btn-primary {
+    color: #fff;
+    background-color:#4737FF !important;
+    border-color: #4737FF !important; 
+}
