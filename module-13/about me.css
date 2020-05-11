@@ -33,3 +33,73 @@
       margin-top: 150px;
       margin-left: 700px;
   }
+
+  /* @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+body {
+  background: #111b25;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  color: #fff;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Pacifico";
+} */
+
+
+
+a {
+  color: beige;
+}
+
+.w {
+  white-space: nowrap;
+  max-width: 480px;
+  width: 480px;
+  height: 360px;
+  margin-top: 100px;
+  left: 10;
+  right: 90px;
+  bottom: 30px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("https://drive.google.com/uc?id=1hXE6mOTrNHmaA9dJKBcsMLstIHz--Pal") no-repeat fixed;
+  background-position: 89.5% 89.5%;
+  background-size: 480px 360px;
+  position: absolute;
+  z-index: 5;
+  font-size: 0;
+}
+
+.i {
+  width: 40px;
+  height: 360px;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 1.3s ease-in-out;
+  transition: all 1.3s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("https://drive.google.com/uc?id=1BlJ-iMbuPUSRaI3QjrwGOqQgDkZPv2-Q") no-repeat fixed;
+  background-size: 580px 460px;
+  background-position: 89% 89%;
+  border-radius: 0%;
+}
+.i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+.h {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  width: 480px;
+  text-align: center;
+  top: 35px;
+  font-size: 40px;
+  color: beige;
+  text-shadow: 0 5px 17px rgba(87, 87, 80, 0.85);
+}
