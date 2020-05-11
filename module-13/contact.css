@@ -148,7 +148,7 @@ body {
   }
   
   .social-media-list li:after {
-    content: '';
+    /* content: ''; */
     position: absolute;
     top: 0;
     left: 0;
