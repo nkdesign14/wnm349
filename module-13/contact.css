@@ -1,13 +1,12 @@
-body {
-    margin: 0;
-    padding: 0;
-    
+ html body {
+
+    font-family: 'Fira Sans'!important;
   }
   
-  #contact {
+ html #contact {
     width: 100%;
     height: 100vh;
-    background-color: #111;
+    background-color: black;
     overflow: hidden;
     padding-bottom: 200px;
   }
@@ -211,6 +210,13 @@ body {
       width: 60px;
       height: 60px;
       line-height: 60px;
+    }
+    .footer2{
+      top: 900px;
+
+    }
+    .logo3{
+      top: 935px;
     }
   }
   
