@@ -198,6 +198,22 @@ body {
   opacity: 0.7;
 }
 
+.p1dv{
+  position: absolute;
+  width: 474px;
+  height: 137px;
+  left: 80px;
+  top: 310px;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #222222;
+  opacity: 0.7;
+
+}
+
 .button {
   background-color: #4737FF;
   border: none;
@@ -361,6 +377,13 @@ body {
     left:40px;
     margin-top:-70px;
   }
+
+  .p1dv{
+    width:300px;
+    left:40px;
+    margin-top:-70px;
+  }
+
   .button{
     margin-top: -20px;
     left:100px;
@@ -420,4 +443,8 @@ body {
   .footerline{
   display: none;
 }
+}
+.video{
+  margin-left: 650px;
+  margin-top: 100px;
 }
