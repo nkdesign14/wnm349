@@ -1,0 +1,35 @@
+.p1ab{
+    position: absolute;
+    width: 474px;
+    height: 137px;
+    left: 80px;
+    top: 250px;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    opacity: 0.7;
+  
+  }
+
+  .h1ab  {
+    position: absolute;
+    width: 474px;
+    height: 215px;
+    left: 80px;
+    top: 142px;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1px;
+    color: #151515;
+  }
+
+  .pic6{
+      margin-top: 150px;
+      margin-left: 700px;
+  }
