@@ -64,7 +64,7 @@ a {
   right: 90px;
   bottom: 30px;
   overflow: hidden;
-  background: rgba(66, 66, 66, 0.5) url("https://drive.google.com/uc?id=1hXE6mOTrNHmaA9dJKBcsMLstIHz--Pal") no-repeat fixed;
+  background: rgba(66, 66, 66, 0.5) url("pics/me.jpg") no-repeat fixed;
   background-position: 89.5% 89.5%;
   background-size: 480px 360px;
   position: absolute;
@@ -81,7 +81,7 @@ a {
   padding: 2px;
   -webkit-transition: all 1.3s ease-in-out;
   transition: all 1.3s ease-in-out;
-  background: rgba(66, 66, 66, 0.5) url("https://drive.google.com/uc?id=1BlJ-iMbuPUSRaI3QjrwGOqQgDkZPv2-Q") no-repeat fixed;
+  background: rgba(66, 66, 66, 0.5) url("pics/pic7.jpg") no-repeat fixed;
   background-size: 580px 460px;
   background-position: 89% 89%;
   border-radius: 0%;
