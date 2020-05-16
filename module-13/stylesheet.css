@@ -479,6 +479,14 @@ body {
   -o-animation: fadeIn ease 3s;
   -ms-animation: fadeIn ease 3s;
 }
+.fade-in5{
+  animation: fadeIn ease 10s;
+  -webkit-animation: fadeIn ease 10s;
+  -moz-animation: fadeIn ease 10s;
+  -o-animation: fadeIn ease 10s;
+  -ms-animation: fadeIn ease 10s;
+}
+
 
 
 
