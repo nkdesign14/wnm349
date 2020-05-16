@@ -186,9 +186,9 @@
   }
   
   /* Begin Media Queries*/
-  @media screen and (max-width: 760px) {
+  @media screen and (max-width: 768px) {
       #contact {
-          height: 1000px;
+          height: 3000px;
       }
     .section-header {
       font-size: 65px;
@@ -212,15 +212,15 @@
       line-height: 60px;
     }
     .footer2{
-      top: 900px;
+      margin-top: 200px;
 
     }
     .logo3{
-      top: 935px;
+     margin-top: 200px;
     }
   }
   
-  @media screen and (max-width: 569px) {
+  /* @media screen and (max-width: 569px) {
     #contact {
       height: 1200px;
       }
@@ -264,7 +264,7 @@
     .send-button2 {
       width: 99%;
     }
-  }
+  } */
 
   html .btn-primary {
     color: #fff;
