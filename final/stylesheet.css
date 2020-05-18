@@ -355,11 +355,11 @@ body {
     top: 30px;
   }
   .topnav ul {
-    margin-top:10px;
-    width:45%;
+    margin-top:15px;
+    width:60%;
     font-size: 12px;
     float:none;
-    margin-left:210px;
+    margin-left:150px;
 }
 .container{
   display: none;
